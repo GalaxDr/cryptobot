@@ -2,3 +2,4 @@ src/apikeys.py
 .idea/.name
 *.xml
 src/__pycache__/
+src/apikeys.py
